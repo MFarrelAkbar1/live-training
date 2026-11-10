@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@source "../practice-exercises";
+@source "../solutions";
+@source "../playground";
+
+body {
+  font-family: 'Inter', ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif;
+  color: var(--color-slate-800);
+}

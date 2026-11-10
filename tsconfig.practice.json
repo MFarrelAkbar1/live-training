@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.app.json",
+  "compilerOptions": {
+    // Starter files intentionally contain unused variables/params while
+    // exercises are unfinished, so these two rules are relaxed here.
+    "noUnusedLocals": false,
+    "noUnusedParameters": false
+  },
+  "include": ["src", "practice-exercises", "solutions", "playground"]
+}
